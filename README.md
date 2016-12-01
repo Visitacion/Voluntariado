@@ -5,3 +5,5 @@ For this, we will use 4+1 architectural view model. So, we will have the designs
 - Process View: with sequence, communication, activity, timing and interaction overview diagrams.
 - Implementation View: with component diagrams.
 - Deployment View: with deployment diagrams.
+
++ Usecase View: with uses case and activity diagrams.
